@@ -104,7 +104,7 @@
 
 <div alig="center">
     <a href="https://github.com/anuragjha/github-readme-stats">
-        <img height=180em src="https://github-readme-stats.vercel.app/api?username=priyabharti11&count_public=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats"/>
+        <img height=180em src="https://github-readme-stats.vercel.app/api?username=priyabharti11&theme=midnight-purple" alt="my github stats"/>
     </a>
 </div>
 </details>
@@ -134,7 +134,7 @@
 <details>
 <summary>Achievements</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=priyabharti11&count_public=true&theme=darkhub&no-frame=false&column=7">
+    <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=priyabharti11&column=7">
 </a>
 </details>
 
