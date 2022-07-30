@@ -15,24 +15,26 @@
   
 </div>
 
+
 <!-- PROFILE VIEWS -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-priyabharti11&style=flat-square&color=blue" alt="Profile views"  />
 </div>
 
+
 <!-- GITHUB STATS CODE -->
-<hr>
-<h4> <b>GITHUB STATS </b></h4>
+
+<h2 align="center"> Github Stats  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 <a href="https://github.com/priyabharti11/github-readme-stats">
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabharti11&layout=compact&theme=tokyonight" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabharti11&layout=compact&theme=tokyonight" />
 </a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&theme=tokyonight" alt="muskanrani" />
-<hr>
+
 
 <!--LANGUAGES AND TOOLS -->
 
-<h4 align="center" width="1500" > <b> LANGUAGES AND TOOLS<b/></h4>
+<h2 align="center"> <b> Languages and Tools<b/></h2>
 <p align="center">
   
 <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -63,5 +65,7 @@
 
   <!-- STREAK , PULL REQUESTS , CHANGES STATS -->
   
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&" alt="priyabharti11" /></p>
-
+  <h2 align ="center" >Streaks and Contributions</h2>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&" alt="priyabharti11" />
+  </p>
+  
