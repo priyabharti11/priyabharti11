@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-  <img src ="https://media1.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif?cid=ecf05e47jrfld2ekc7kexb2sonvcaajqknh7umeda2rdjrd1&rid=giphy.gif&ct=g" width="700" height="600"/>
+ 
    <img src="https://thumbs.gfycat.com/DistantSoggyAlbacoretuna-size_restricted.gif" width ="700"height="500"/>
 </h1>
 <div align="left">
