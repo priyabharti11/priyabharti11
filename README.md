@@ -7,10 +7,9 @@
    <img src="https://thumbs.gfycat.com/DistantSoggyAlbacoretuna-size_restricted.gif" width ="1200"height="500"/>
 </h1>
 <div align="left">
- <img src="https://i.pinimg.com/originals/10/48/b9/1048b94b5eddf9443c233c8101962b95.gif" width ="200" height="200"/>
-  <img src="https://media0.giphy.com/media/VGwTq3G6a39cI/giphy.gif?cid=790b7611858b04253982ddd221f6c0bbafacf440fa097727&rid=giphy.gif&ct=g" width="300" height="200"/>
-    <img src="https://giffiles.alphacoders.com/119/119862.gif" width ="200" height="200"/>
-  <img src="https://gifimage.net/wp-content/uploads/2017/06/hacking-gif-9.gif" width="200" height="200"/>
+  <img src="https://media0.giphy.com/media/VGwTq3G6a39cI/giphy.gif?cid=790b7611858b04253982ddd221f6c0bbafacf440fa097727&rid=giphy.gif&ct=g" width="500" height="200"/>
+  <img src="https://giffiles.alphacoders.com/119/119862.gif" align="right" width ="500" height="200"/>
+
 
   
 </div>
