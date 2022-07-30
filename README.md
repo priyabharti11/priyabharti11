@@ -2,14 +2,17 @@
 <div align="center" ><img width="100%" height="200" alt="welcome to my profile!" src="https://thumbs.dreamstime.com/b/code-43591556.jpg"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Priya;Computer+Engineering+Student;Indian;%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Whoami+?;Well+Hello+Sapien;I'm+Priya+Bharti;A+Student+in;Computer+Science+Engineering;and+.+.+.+.;An+Indian+!;So+come+on+in+let+'+s+explore" alt="Whoami"></a>
 </div>
 
 
 
 <div id="header" align="center" bgcolor="black">
-  <h2> :book:"The noblest pleasure is the joy of understanding.":book:</h2>
-</div>
+  <h2> :book:"The noblest pleasure is the joy of understanding":book:<br/>
+            ~Leonardo da Vinci</h3>
+  </h2>
+</div>                                                   
+
 
 
 <!--
@@ -155,28 +158,3 @@
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
 <div align="center" ><img alt="White Hat" width="100%" height="300" src="https://2.bp.blogspot.com/-H8_IT6H_aFE/WkbTxoUT3_I/AAAAAAAAN0A/ylUApHjdmEEImgQ4yqfdNJZYpt6LaOrSACK4BGAYYCw/s1600/Achievements%2B%2526%2BCertification%2B%25C3%25A2%25C2%a2580%25C2%2593%2Bsornram9254-772986.jpg"></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
