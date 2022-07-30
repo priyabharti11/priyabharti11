@@ -25,7 +25,7 @@
 
 <!-- GITHUB STATS CODE -->
 
-<h2 align="center"> Github Stats  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+<h2 align="center">  📈 Github Stats </h2>
 <a href="https://github.com/priyabharti11/github-readme-stats">
 <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabharti11&layout=compact&theme=tokyonight" />
 </a>
@@ -34,7 +34,7 @@
 
 <!--LANGUAGES AND TOOLS -->
 
-<h2 align="center"> <b> Languages and Tools<b/></h2>
+<h2 align="center"> <b> 🛠️ Languages and Tools<b/></h2>
 <p align="center">
   
 <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -65,7 +65,11 @@
 
   <!-- STREAK , PULL REQUESTS , CHANGES STATS -->
   
-  <h2 align ="center" >Streaks and Contributions</h2>
+  <h2 align ="center" >Streaks and Contributions  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&" alt="priyabharti11" />
   </p>
   
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=priyabharti11&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+   </div>
