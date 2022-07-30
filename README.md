@@ -1,22 +1,25 @@
 <div id="header" align="center" bgcolor="black">
   <img src="https://media4.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e4706nbbq8qdwr57yjzcx5lvuwn94epjcss3gy4wbq0&rid=giphy.gif&ct=g" width="800" height ="200"/>
   <h2> Priya Bharti 👋 <br/>"The noblest pleasure is the joy of understanding."</h2>
-
-<!--CONTACT INFORMATION -->  
-  </div>
-<div align="center" id="badges">
-  
-  <a href="https://www.linkedin.com/in/priya-bharti-292051209">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://twitter.com/priyabharti1111?t=bD4RyW9zx79FYVMa1lB5LA&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
 </div>
+<!--CONTACT INFORMATION -->  
 
-
+<div align="center" id="badges" width="200">
+ <a href="https://twitter.com/priyabharti1111?t=bD4RyW9zx79FYVMa1lB5LA&s=09">
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+      
+<a href="sagunn1111@gmail.com">
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+</a>
+      
+<a href="https://www.linkedin.com/in/priya-bharti-292051209">
+ 
+  <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+    
+ </div>
+<br/>
 <!-- PROFILE VIEWS -->
 
 <div align="center">
