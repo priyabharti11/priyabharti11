@@ -22,14 +22,13 @@
 </div>
 
 <!-- GITHUB STATS CODE -->
-
-<h4 align="center"> <b>GITHUB STATS </b></h4>
-
-<img  src="https://github-readme-stats.vercel.app/api/?username=priyabharti11&show_icons=true&theme=gotham" align="center" alt="github stats" width="1500" height="200"/>
-
-<a align="center" href="https://github.com/priyabharti11/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabharti11&layout=compact&theme=gotham" width="1500" height="200"/>
+<hr>
+<h4> <b>GITHUB STATS </b></h4>
+<a href="https://github.com/priyabharti11/github-readme-stats">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabharti11&layout=compact&theme=tokyonight" />
 </a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&theme=tokyonight" alt="muskanrani" />
+<hr>
 
 <!--LANGUAGES AND TOOLS -->
 
