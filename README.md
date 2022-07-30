@@ -29,7 +29,8 @@
 <a href="https://github.com/priyabharti11/github-readme-stats">
 <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabharti11&layout=compact&theme=tokyonight" />
 </a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&theme=tokyonight" alt="muskanrani" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&theme=tokyonight" alt="priyabharti11" />
+
 
 
 <!--LANGUAGES AND TOOLS -->
@@ -62,14 +63,13 @@
 </a>
   
 </p>
-
-  <!-- STREAK , PULL REQUESTS , CHANGES STATS -->
-  
-  <h2 align ="center" >Streaks and Contributions  <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&" alt="priyabharti11" />
-  </p>
+  <h2 align="center"> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
   
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=priyabharti11&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
    </div>
+
+ 
+  
+  
