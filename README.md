@@ -7,8 +7,7 @@
    <img src="https://thumbs.gfycat.com/DistantSoggyAlbacoretuna-size_restricted.gif" width ="1200"height="500"/>
 </h1>
 <div align="left">
-  <img src="https://media0.giphy.com/media/VGwTq3G6a39cI/giphy.gif?cid=790b7611858b04253982ddd221f6c0bbafacf440fa097727&rid=giphy.gif&ct=g" width="500" height="200"/>
-  <img src="https://giffiles.alphacoders.com/119/119862.gif" align="right" width ="500" height="200"/>
+ 
 
 
   
