@@ -2,11 +2,17 @@
   <img src="https://media4.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e4706nbbq8qdwr57yjzcx5lvuwn94epjcss3gy4wbq0&rid=giphy.gif&ct=g" width="1200" height ="200"/>
 
 
-<h1>
-  <img src="https://thumbs.gfycat.com/DistantSoggyAlbacoretuna-size_restricted.gif" width ="1200"height="500"/>
+<h1 align="center">
+  <img src ="https://media1.giphy.com/media/xTcnSWYZvafyhEACBO/giphy.gif?cid=ecf05e47jrfld2ekc7kexb2sonvcaajqknh7umeda2rdjrd1&rid=giphy.gif&ct=g" width="1200" height="600"/>
+   <img src="https://thumbs.gfycat.com/DistantSoggyAlbacoretuna-size_restricted.gif" width ="1200"height="500"/>
 </h1>
-<div align="center">
-  <img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611504d80f939640366a309f87535b7c1143ac92799&rid=giphy.gif&ct=g" width="800" height="400"/>
+<div align="left">
+ <img src="https://i.pinimg.com/originals/10/48/b9/1048b94b5eddf9443c233c8101962b95.gif" width ="200" height="200"/>
+  <img src="https://media0.giphy.com/media/VGwTq3G6a39cI/giphy.gif?cid=790b7611858b04253982ddd221f6c0bbafacf440fa097727&rid=giphy.gif&ct=g" width="300" height="200"/>
+    <img src="https://giffiles.alphacoders.com/119/119862.gif" width ="200" height="200"/>
+  <img src="https://gifimage.net/wp-content/uploads/2017/06/hacking-gif-9.gif" width="200" height="200"/>
+
+  
 </div>
   
   </div>
@@ -17,5 +23,7 @@
   <a href="https://twitter.com/priyabharti1111?t=bD4RyW9zx79FYVMa1lB5LA&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-priyabharti11&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=your-priyabharti11&style=flat-square&color=blue" alt=" />
+ 
 </div>
+
