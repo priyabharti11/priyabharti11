@@ -15,5 +15,5 @@
   <img src="https://www.bing.com/images/search?view=detailV2&ccid=63iIHwjk&id=C7F34886D05C00AA19A3E17CF1DF248608B8D138&thid=OIP.63iIHwjkgHWneNiGeVj-owHaHa&mediaurl=https%3A%2F%2F64.media.tumblr.com%2F579cc56a2a59ad71cf1c5afb0f0005fc%2Ftumblr_ov7siwHIkP1ue08b9o1_540.gifv&exph=540&expw=540&q=coding+gif+image+for+github&simid=608054291632639823&form=IRPRST&ck=80E28309F797BE0B569EA7832E3AD8E4&selectedindex=10&ajaxhist=0&ajaxserp=0&vt=0&sim=11"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=SWAmM6Xr&id=C1EF302757DD7FEEBEFE4451C6890683895C44DD&thid=OIP.SWAmM6XrxyRr7trAndKDewHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f31818%2fscreenshots%2f2091618%2fdribbb.gif&exph=300&expw=400&q=coding+gif+image+for+github&simid=608014064965519355&FORM=IRPRST&ck=2C99C5A4DBE39B224CF934181A48F3C4&selectedIndex=24" width="600" height="300"/>
 </div>
