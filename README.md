@@ -1,8 +1,6 @@
 <div id="header" align="center" bgcolor="black">
   <img src="https://media4.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e4706nbbq8qdwr57yjzcx5lvuwn94epjcss3gy4wbq0&rid=giphy.gif&ct=g" width="800" height ="200"/>
-<h1 align="center">
-  <img src="https://thumbs.gfycat.com/DistantSoggyAlbacoretuna-size_restricted.gif" width ="700"height="400"/>
-</h1>
+
 <div align="left">
  </div>
   
