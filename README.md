@@ -1,5 +1,6 @@
 <div id="header" align="center" bgcolor="black">
   <img src="https://media4.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e4706nbbq8qdwr57yjzcx5lvuwn94epjcss3gy4wbq0&rid=giphy.gif&ct=g" width="800" height ="200"/>
+  <h2> Priya Bharti 👋</h2>
 
 <!--CONTACT INFORMATION -->  
   </div>
@@ -25,7 +26,7 @@
 
 <!-- GITHUB STATS CODE -->
 
-<h2 align="center">  📈 Github Stats </h2>
+<h2 align ="center"> 📈 Github Stats </h2>   
 <a href="https://github.com/priyabharti11/github-readme-stats">
 <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabharti11&layout=compact&theme=tokyonight" />
 </a>
@@ -35,7 +36,7 @@
 
 <!--LANGUAGES AND TOOLS -->
 
-<h2 align="center"> <b> 🛠️ Languages and Tools<b/></h2>
+<h2 align="center"> <b> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>Languages and Tools<b/></h2>
 <p align="center">
   
 <a href="https://www.w3schools.com/cpp/" target="_blank">
@@ -61,14 +62,7 @@
 <a href="https://www.postgresql.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
-  
-</p>
-  <h2 align="center"> <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
-  
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyabharti11&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-    <br />
-   </div>
+
 
  
   
