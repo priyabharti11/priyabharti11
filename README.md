@@ -90,7 +90,7 @@
 <details open>
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img width="450" src="https://spiritualcleansing.org/wp-content/uploads/2015/05/Learn-how-to-see.-Realize-that-everything-connects-to-everything-else..jpg" alt="quotes card">
+        <img width="60%" height ="250" src="https://quotefancy.com/media/wallpaper/3840x2160/2002685-Pablo-Picasso-Quote-Everything-you-can-imagine-is-real.jpg" alt="quotes card">
     </a>
 </details>
 
@@ -105,11 +105,7 @@
     </a>
 </div>
 </details>
-<details>
- <summary>Recent activity</summary>
-    
 
-</details>
 <details>
 <summary>Top languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -117,24 +113,28 @@
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
+
 <details>
 <summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
 </details>
+
 <details>
 <summary>Contribution Graph</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=priyabharti11&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
 </a>
 </details>
+
 <details>
 <summary>Achievements</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=priyabharti11&theme=darkhub&no-frame=true&column=7">
 </a>
 </details>
+
 <details>
 <summary>Profile visitors</summary>
 <p align="center">:round_pushpin: Profile visitors</p>
