@@ -65,11 +65,11 @@
 </a>
  
 <a href="https://www.javatpoint.com/github" target="_blank"> 
- <code><img title="GitHub" alt="github" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+ <code><img title="GitHub" alt="github" width="40px" src="https://cdn0.iconfinder.com/data/icons/social-network-9/50/29-512.png" /></code>
 </a>
   
 <a href="https://www.atlassian.com/software/confluence?gclid=c3f70753c02c1090659565b6d040432e&gclsrc=3p.ds&&adgroup=1306220045966618&campaign=380755106&creative=81638805016719&device=c&keyword=%2Bconfluence&ds_k=%2Bconfluence&matchtype=p&network=o&ds_kids=p54414099851&ds_e=MICROSOFT&ds_eid=700000001721838&ds_e1=MICROSOFT&msclkid=c3f70753c02c1090659565b6d040432e" target="_blank">
-  <code><img title="Confluence Collaboration" alt="GNU Image Manipulation Program - GIMP" width="50px" src="https://assets.website-files.com/5aac3a69b2d9acb3144c8171/5d9c92f7faa4c073ae9c738a_Confluence.jpeg" alt="confluence" /></code>
+  <code><img title="Confluence Collaboration" alt="GNU Image Manipulation Program - GIMP" width="50px" src="https://clipground.com/images/confluence-logo-8.png" alt="confluence" /></code>
 </a> 
   
 <a href="https://www.w3.org/html/" target="_blank">
