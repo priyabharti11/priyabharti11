@@ -86,7 +86,7 @@
 
 
 
- 
+ <!-- QUOTE -->
   
   
   <h2>:thought_balloon: Quote of the day</h2>
@@ -96,6 +96,10 @@
         <img width="60%" height="250" src="https://quotefancy.com/media/wallpaper/3840x2160/2002685-Pablo-Picasso-Quote-Everything-you-can-imagine-is-real.jpg" alt="quotes card">
     </a>
 </details>
+
+
+
+ <!-- GITHUB STATS -->
 
   
 <h2>:octocat: My GitHub Stats</h2>
@@ -109,6 +113,14 @@
 </div>
 </details>
 
+
+
+
+<!-- LANGUAGES AND TOOLS -->
+
+
+
+
 <details>
 <summary>Top languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -117,12 +129,24 @@
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 
+
+
+<!-- STREAKS -->
+
+
+
 <details>
 <summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=priyabharti11&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
 </details>
+
+
+
+<!-- CONTRIBUTION GRAPH -->
+
+
 
 <details>
 <summary>Contribution Graph</summary>
@@ -131,12 +155,25 @@
 </a>
 </details>
 
+
+
+<!-- ACHIEVEMENTS -->
+
+
+
 <details>
 <summary>Achievements</summary>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=priyabharti11&column=7">
 </a>
 </details>
+
+
+
+<!-- PROFILE VISITORS -->
+
+
+
 
 <details>
 <summary>Profile visitors</summary>
@@ -147,14 +184,41 @@
 </details>
 
 
+
+<!-- GUEST BOOK -->
+
+
+
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/priyabharti11/priyabharti11/issues/new?template=guestbook-entry.md">here</a>!</p>
 
+
+
+
+<!-- THANKS FOR YOUR VISIT -->
+
+
+
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
+       <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+
+
+<!-- BACK TO TOP CODE -->
+
+
+
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" />
+  </a>
+</p>
+
+
+<!-- WHITE HAT IMAGE -->
+
+
+
 <div align="center" ><img alt="White Hat" width="100%" height="300" src="https://2.bp.blogspot.com/-H8_IT6H_aFE/WkbTxoUT3_I/AAAAAAAAN0A/ylUApHjdmEEImgQ4yqfdNJZYpt6LaOrSACK4BGAYYCw/s1600/Achievements%2B%2526%2BCertification%2B%25C3%25A2%25C2%a2580%25C2%2593%2Bsornram9254-772986.jpg"></div>
