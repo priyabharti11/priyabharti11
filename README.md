@@ -15,9 +15,6 @@
 
 
 
-<!--
-<h2>:woman_technologist: About me</h2>
-<img align ="center" width="70%" alt="Hello world! Pronouns: she/her; Country: India; Age: 21; Spoken Languages: Hindi, English, Maithli; Goals: Sharpen my skills; My Hobbies:Art and Craft, Singing,Solving everyone's problem;Movies:None." src="https://github.com/Carol42/Carol42/blob/main/assets/sobre-mim.png"/>  -->
 <!--CONTACT INFORMATION -->  
 
 <div align="center" id="badges" width="200">
