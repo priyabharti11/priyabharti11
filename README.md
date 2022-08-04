@@ -19,17 +19,21 @@
 
 <div align="center" id="badges" width="200">
  <a href="https://twitter.com/priyabharti1111?t=bD4RyW9zx79FYVMa1lB5LA&s=09">
-  <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  <img align="center" width="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-512.png"/>
 </a>
       
 <a href="sagunn1111@gmail.com">
-  <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  <img align="center" width="40px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
 </a>
       
 <a href="https://www.linkedin.com/in/priya-bharti-292051209">
  
-  <img align="center" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="center" width="40px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png"/>
 </a>
+
+<a href="https://www.instagram.com/priyabharti_11/">
+   <img align="center" width="40px" src="https://www.pngjoy.com/pngm/791/9394929_png-images-instagram-ios-logo-png-hd-png.png"/>
+   </a>
     
  </div>
 <br/>
