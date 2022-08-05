@@ -20,7 +20,7 @@
 <div align="center" id="badges" width="200">
  <a href="https://twitter.com/priyabharti1111?t=bD4RyW9zx79FYVMa1lB5LA&s=09">
   <img align="center" width="40px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-512.png"/>
-</a>
+ </a>
       
 <a href="sagunn1111@gmail.com">
   <img align="center" width="40px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
