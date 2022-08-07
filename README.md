@@ -223,5 +223,4 @@
 <!-- WHITE HAT IMAGE -->
 
 
-
 <div align="center" ><img alt="White Hatt" width="100%" height="300" src="https://2.bp.blogspot.com/-H8_IT6H_aFE/WkbTxoUT3_I/AAAAAAAAN0A/ylUApHjdmEEImgQ4yqfdNJZYpt6LaOrSACK4BGAYYCw/s1600/Achievements%2B%2526%2BCertification%2B%25C3%25A2%25C2%a2580%25C2%2593%2Bsornram9254-772986.jpg"></div>
