@@ -46,8 +46,8 @@
 </div>
 
 <h2></h2>
-
-<meta property="og:image" content="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
+<a>
+<img title="og:image" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" width="100%"/></a>
 
 <!--LANGUAGES AND TOOLS -->
 
