@@ -167,7 +167,7 @@
 
 <details>
 <summary>Achievements</summary>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia">
     <img alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=priyabharti11&column=7">
 </a>
 </details>
