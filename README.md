@@ -1,7 +1,7 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" height="100" alt="welcome to my profile!" src="https://thumbs.dreamstime.com/b/code-43591556.jpg"></div>
+<div align="center" ><img width="100%" height="200" alt="welcome to my profile!" src="https://thumbs.dreamstime.com/b/code-43591556.jpg"></div>
 <a>
-<img title="og:image" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" width="100%" height="150"/></a>
+<img title="og:image" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" width="100%"/></a>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Whoami+?;Well+Hello+Sapien;I'm+Priya+Bharti;A+Student+in;Computer+Science+Engineering;and+.+.+.+.;An+Indian+!;So+come+on+in+let+'+s+explore" alt="Whoami"></a>
 </div>
