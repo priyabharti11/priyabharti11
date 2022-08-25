@@ -130,7 +130,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabharti11&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
-    <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+   <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 
 
