@@ -29,7 +29,7 @@
       
 <a href="https://www.linkedin.com/in/priya-bharti-292051209">
  
-  <img align="center" width="40px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png"/>
+ <img align="center" width="40px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png"/>
 </a>
 
 <a href="https://www.instagram.com/priyabharti_11/">
