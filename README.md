@@ -26,7 +26,6 @@
 <a href="sagunn1111@gmail.com">
   <img align="center" width="40px" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"/>
 </a>
-      
  <a href="https://www.linkedin.com/in/priya-bharti-292051209">
  
   <img align="center" width="40px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png"/>
