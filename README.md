@@ -1,5 +1,5 @@
  <div id="top"></div>
-<div align="center" ><img width="100%" height="150" alt="welcome to my profile!" src="https://thumbs.dreamstime.com/b/code-43591556.jpg"></div>
+<div align="center" ><img width="100%" height="190" alt="welcome to my profile!" src="https://thumbs.dreamstime.com/b/code-43591556.jpg"></div>
 <a>
 <img title="og:image" src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" width="100%" height="300"/></a>
 <div align="center">
@@ -97,7 +97,7 @@
 <details open>
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img width="100%" width = "80" src="https://quotefancy.com/media/wallpaper/3840x2160/2002685-Pablo-Picasso-Quote-Everything-you-can-imagine-is-real.jpg" alt="quotes card">
+        <img width="100%" height= "250" src="https://quotefancy.com/media/wallpaper/3840x2160/2002685-Pablo-Picasso-Quote-Everything-you-can-imagine-is-real.jpg" alt="quotes card">
     </a>
 </details>
 
