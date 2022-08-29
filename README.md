@@ -97,7 +97,7 @@
 <details open>
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img width="100%" src="https://quotefancy.com/media/wallpaper/3840x2160/2002685-Pablo-Picasso-Quote-Everything-you-can-imagine-is-real.jpg" alt="quotes card">
+        <img width="100%" width = "200" src="https://quotefancy.com/media/wallpaper/3840x2160/2002685-Pablo-Picasso-Quote-Everything-you-can-imagine-is-real.jpg" alt="quotes card">
     </a>
 </details>
 
