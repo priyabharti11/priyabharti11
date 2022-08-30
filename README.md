@@ -91,10 +91,10 @@
 
 
  <!-- QUOTE -->
-  
+  <!-- <details open> writing this will keep the section open by default-->
   
   <h2>:thought_balloon: Quote of the day</h2>
-<details open>
+<details>
 <summary>See quote</summary>
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img width="100%" height= "290" src="https://quotefancy.com/media/wallpaper/3840x2160/2002685-Pablo-Picasso-Quote-Everything-you-can-imagine-is-real.jpg" alt="quotes card">
