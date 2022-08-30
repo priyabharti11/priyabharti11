@@ -102,11 +102,19 @@
 </details>
 
 
+<!--PROJECTS-->
+
+
+<summary><h2>🏗️ Projects</h2></summary>
+<details>
+<h5>- Sign Up & Sign In : https://github.com/priyabharti11/JDBC-SignUp-SignIn<br><br>- Registration Form : https://github.com/priyabharti11/Registraion-Form<br><br>- Atm : https://github.com/priyabharti11/Atm<br><br>- Marksheet Design : https://github.com/priyabharti11/Marksheet-Design<br><br>- Basic Desktop Calculator : https://github.com/priyabharti11/Basic-Desktop-Calculator<br><br>- Banking System ( Ongoing ): https://github.com/priyabharti11/BankingSystem</h5>
+</details>
+
 
  <!-- GITHUB STATS -->
 
   
-<h2>:octocat: My GitHub Stats</h2>
+<summary><h2>:octocat: My GitHub Stats</h2></summary>
 <details>
 <summary>General Stats</summary>
 
@@ -171,7 +179,6 @@
     <img  alt="github trophies" src="https://github-profile-trophy.vercel.app/?username=priyabharti11&column=7">
 </a>
 </details>
-
 
 
 <!-- PROFILE VISITORS -->
